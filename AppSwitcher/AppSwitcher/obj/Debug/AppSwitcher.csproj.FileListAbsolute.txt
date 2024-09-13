@@ -1,0 +1,12 @@
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\bin\Debug\AppSwitcher.exe.config
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\bin\Debug\AppSwitcher.exe
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\bin\Debug\AppSwitcher.pdb
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\obj\Debug\AppSwitcher.csproj.AssemblyReference.cache
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\obj\Debug\AppSwitcher.Main.resources
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\obj\Debug\AppSwitcher.Properties.Resources.resources
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\obj\Debug\AppSwitcher.csproj.GenerateResource.cache
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\obj\Debug\AppSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\obj\Debug\AppSwitcher.exe
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\obj\Debug\AppSwitcher.pdb
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\mrque\Desktop\AppSwitcher\AppSwitcher\obj\Debug\AppSwitcher.csproj.ResolveComReference.cache

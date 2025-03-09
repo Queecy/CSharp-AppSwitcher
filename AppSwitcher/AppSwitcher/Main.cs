@@ -31,7 +31,8 @@ namespace AppSwitcher
                 (Properties.Resources.Obs, "Obs"),
                 (Properties.Resources.Steam, "Steam"),
                 (Properties.Resources.Telegram, "Telegram"),
-                (Properties.Resources.Tor, "Tor")
+                (Properties.Resources.Tor, "Tor"),
+                (Properties.Resources.Spotify, "Spotify")
             };
         }
 
